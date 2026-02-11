@@ -1,2 +1,2 @@
 # skill
-pull req
+pull req-2
